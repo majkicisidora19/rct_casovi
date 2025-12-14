@@ -1,0 +1,8 @@
+1. [Palindrom](https://petlja.org/sr-Cyrl-RS/biblioteka/r/Zbirka/string_palindrom)
+2. [Razliciti elementi niza](https://petlja.org/sr-Cyrl-RS/biblioteka/r/Zbirka/razliciti_elementi_niza)
+3. [Maksimalna razlika susednih](https://petlja.org/sr-Cyrl-RS/biblioteka/r/Zbirka/maksimalna_razlika_susednih2)
+4. [Sortiranje brojeva](https://petlja.org/sr-Cyrl-RS/biblioteka/r/Zbirka/sortiranje_brojeva)
+5. [Sortiranje takmicara](https://petlja.org/sr-Cyrl-RS/biblioteka/r/Zbirka/sortiranje_takmicara)
+6. [Sve podreci](https://petlja.org/sr-Cyrl-RS/biblioteka/r/Zbirka/sve_podreci1)
+7. [Broj bombica u okolini](https://petlja.org/sr-Cyrl-RS/biblioteka/r/Zbirka/broj_bombi_u_okolini)
+8. [Da li se dame napadaju](https://petlja.org/sr-Cyrl-RS/biblioteka/r/Zbirka/da_li_se_dame_napadaju1)
